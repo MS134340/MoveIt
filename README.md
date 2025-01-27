@@ -1,2 +1,0 @@
-# MoveIt
-bootstrap project
